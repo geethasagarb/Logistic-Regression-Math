@@ -3,7 +3,7 @@
 ![unnamed](https://github.com/user-attachments/assets/2de5deb0-ac9b-487b-97ac-8e956b76fdc8)
 
 
-This repository contains a detailed exploration of the mathematical concepts behind Logistic Regression, implemented in Google Colab. The primary goal is to provide a comprehensive understanding of how logistic regression works, using mathematical derivations and practical examples.
+This repository contains a detailed exploration of the mathematical concepts behind Logistic Regression, implemented in Google Colab. The primary goal is to provide a comprehensive understanding of how logistic regression works.
 
 ## Table of Contents
 
